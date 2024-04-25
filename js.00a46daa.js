@@ -53684,34 +53684,34 @@ var lastPosition = {
 };
 var detailsImage = [{
   url: "https://www.youtube.com/watch?v=87MPqPynrXc",
-  name: "Transformation Dark Vador\n - Anakin devient Dark Vador"
+  name: "SHE IS - A 3D animation bridging the past, the present and the future of African creativity"
 }, {
   url: "https://www.youtube.com/watch?v=FX8rsh83bGk",
-  name: "Arrivée Dark Vador\n Étoile de la Mort"
+  name: "YOUTH - A 3D animation for a fashion brand called Youth"
 }, {
   url: "https://www.youtube.com/watch?v=wxL8bVJhXCM",
-  name: "Darth Vader's rage"
+  name: "UNIVERSAL SOLDIER - A 3D animation about brotherhood"
 }, {
   url: "https://www.youtube.com/watch?v=Ey68aMOV9gc",
-  name: "VADER EPISODE 1: SHARDS\n OF THE PAST"
+  name: "VODUN - A collection of 3D art representing the 4 main deity of Vodun spirituality"
 }, {
   url: "https://www.youtube.com/watch?v=3vZsVKD8BQg",
-  name: "Je suis ton père!"
+  name: "SACRIFICE - AN african futuristic 3D animated short film"
 }, {
   url: "https://www.youtube.com/watch?v=7Zp66FhjlPU",
-  name: "Darth Vader Goes Shopping"
+  name: "STRAIGHT OUT OF THE COSMOS - A collection of 8 360deg 3D animation"
 }, {
   url: "https://www.youtube.com/watch?v=68vPtAE3cZE",
-  name: "Votre manque de foi\n me consterne"
+  name: "SACRIFICE - AN african futuristic 3D animated short film"
 }, {
   url: "https://www.youtube.com/watch?v=kocd_C2M9RU",
-  name: "LA SOUFFRANCE MÈNE\n AU CÔTÉ OBSCUR"
+  name: "ALIEN - A 3D animated music visualizer"
 }, {
   url: "https://www.youtube.com/watch?v=k21ONzrwVLY",
-  name: "Lord Vader: A Star\n Wars Story"
+  name: " MAPESSA - A 3D animated music visualizer "
 }, {
   url: "https://www.youtube.com/watch?v=JucYYmeh_QY",
-  name: 'Dark vador "Hommage"'
+  name: "LES TROIS ANIMAUX - An afrosurrealist 3D animated short film about displacement"
 }]; //-------------------------------------------------------------------------------------------------------------------
 // Base
 //-------------------------------------------------------------------------------------------------------------------
