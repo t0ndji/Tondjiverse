@@ -53686,22 +53686,22 @@ var detailsImage = [{
   url: "https://youtu.be/pg-kp64eT7A",
   name: "SHE IS \n A 3D animation bridging the past, the present and the future of African creativity"
 }, {
-  url: "https://vimeo.com/817378741",
+  url: "https://youtube.com/shorts/mI-voWjsC1c",
   name: "YOUTH \n A 3D animation for a fashion brand called Youth"
 }, {
-  url: "https://www.instagram.com/p/ClPE07AoKuV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+  url: "https://youtu.be/AZ8ih9tsJyQ",
   name: "UNIVERSAL SOLDIER \n A 3D animation about brotherhood"
 }, {
-  url: "https://www.instagram.com/p/CUNU6ORNPbx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-  name: "VODUN \n A collection of 3D art representing the 4 main deity of Vodun spirituality"
+  url: "https://youtube.com/shorts/96hZVu0x58A",
+  name: "VENTRE DU PYTHON \n A 3D animated music visualizer"
 }, {
-  url: "https://www.youtube.com/watch?v=3vZsVKD8BQg",
-  name: "SACRIFICE \n An african futuristic 3D animated short film"
+  url: "https://youtube.com/shorts/aw_t4hOuAv0?feature=share",
+  name: "ART DE LA RESISTANCE \n 3D short animation"
 }, {
   url: "https://www.youtube.com/watch?v=OzltHnRfMQs",
   name: "STRAIGHT OUT OF THE COSMOS \n A collection of 8 360deg 3D animation"
 }, {
-  url: "https://www.youtube.com/watch?v=68vPtAE3cZE",
+  url: "https://youtu.be/wbk5aojcmvU",
   name: "SACRIFICE \n An african futuristic 3D animated short film"
 }, {
   url: "https://youtu.be/fo0q2uBlIFo",
@@ -53710,7 +53710,7 @@ var detailsImage = [{
   url: "https://www.youtube.com/watch?v=ifcGVq5o0Jo",
   name: " MAPESSA \n A 3D animated music visualizer "
 }, {
-  url: "https://www.youtube.com/watch?v=JucYYmeh_QY",
+  url: "https://youtu.be/bBPDXxE49Uw",
   name: "LES TROIS ANIMAUX \n An afrosurrealist 3D animated short film about displacement"
 }]; //-------------------------------------------------------------------------------------------------------------------
 // Base
