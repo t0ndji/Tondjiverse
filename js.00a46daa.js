@@ -53683,31 +53683,31 @@ var lastPosition = {
   rz: null
 };
 var detailsImage = [{
-  url: "https://www.youtube.com/watch?v=87MPqPynrXc",
+  url: "https://www.instagram.com/p/CmZmzMbIHma/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   name: "SHE IS \n A 3D animation bridging the past, the present and the future of African creativity"
 }, {
-  url: "https://www.youtube.com/watch?v=FX8rsh83bGk",
+  url: "https://vimeo.com/817378741",
   name: "YOUTH \n A 3D animation for a fashion brand called Youth"
 }, {
-  url: "https://www.youtube.com/watch?v=wxL8bVJhXCM",
+  url: "https://www.instagram.com/p/ClPE07AoKuV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   name: "UNIVERSAL SOLDIER \n A 3D animation about brotherhood"
 }, {
-  url: "https://www.youtube.com/watch?v=Ey68aMOV9gc",
+  url: "https://www.instagram.com/p/CUNU6ORNPbx/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   name: "VODUN \n A collection of 3D art representing the 4 main deity of Vodun spirituality"
 }, {
   url: "https://www.youtube.com/watch?v=3vZsVKD8BQg",
-  name: "SACRIFICE \n AN african futuristic 3D animated short film"
+  name: "SACRIFICE \n An african futuristic 3D animated short film"
 }, {
   url: "https://www.youtube.com/watch?v=7Zp66FhjlPU",
   name: "STRAIGHT OUT OF THE COSMOS \n A collection of 8 360deg 3D animation"
 }, {
   url: "https://www.youtube.com/watch?v=68vPtAE3cZE",
-  name: "SACRIFICE \n AN african futuristic 3D animated short film"
+  name: "SACRIFICE \n An african futuristic 3D animated short film"
 }, {
-  url: "https://www.youtube.com/watch?v=kocd_C2M9RU",
+  url: "https://vimeo.com/817386000",
   name: "ALIEN \n A 3D animated music visualizer"
 }, {
-  url: "https://www.youtube.com/watch?v=k21ONzrwVLY",
+  url: "https://www.youtube.com/watch?v=ifcGVq5o0Jo",
   name: " MAPESSA \n A 3D animated music visualizer "
 }, {
   url: "https://www.youtube.com/watch?v=JucYYmeh_QY",
