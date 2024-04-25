@@ -53684,34 +53684,34 @@ var lastPosition = {
 };
 var detailsImage = [{
   url: "https://www.youtube.com/watch?v=87MPqPynrXc",
-  name: "SHE IS <br> A 3D animation bridging the past, the present and the future of African creativity"
+  name: "SHE IS \n A 3D animation bridging the past, the present and the future of African creativity"
 }, {
   url: "https://www.youtube.com/watch?v=FX8rsh83bGk",
-  name: "YOUTH <br> A 3D animation for a fashion brand called Youth"
+  name: "YOUTH \n A 3D animation for a fashion brand called Youth"
 }, {
   url: "https://www.youtube.com/watch?v=wxL8bVJhXCM",
-  name: "UNIVERSAL SOLDIER <br> A 3D animation about brotherhood"
+  name: "UNIVERSAL SOLDIER \n A 3D animation about brotherhood"
 }, {
   url: "https://www.youtube.com/watch?v=Ey68aMOV9gc",
-  name: "VODUN <br> A collection of 3D art representing the 4 main deity of Vodun spirituality"
+  name: "VODUN \n A collection of 3D art representing the 4 main deity of Vodun spirituality"
 }, {
   url: "https://www.youtube.com/watch?v=3vZsVKD8BQg",
-  name: "SACRIFICE <br> AN african futuristic 3D animated short film"
+  name: "SACRIFICE \n AN african futuristic 3D animated short film"
 }, {
   url: "https://www.youtube.com/watch?v=7Zp66FhjlPU",
-  name: "STRAIGHT OUT OF THE COSMOS <br> A collection of 8 360deg 3D animation"
+  name: "STRAIGHT OUT OF THE COSMOS \n A collection of 8 360deg 3D animation"
 }, {
   url: "https://www.youtube.com/watch?v=68vPtAE3cZE",
-  name: "SACRIFICE <br> AN african futuristic 3D animated short film"
+  name: "SACRIFICE \n AN african futuristic 3D animated short film"
 }, {
   url: "https://www.youtube.com/watch?v=kocd_C2M9RU",
-  name: "ALIEN <br> A 3D animated music visualizer"
+  name: "ALIEN \n A 3D animated music visualizer"
 }, {
   url: "https://www.youtube.com/watch?v=k21ONzrwVLY",
-  name: " MAPESSA <br> A 3D animated music visualizer "
+  name: " MAPESSA \n A 3D animated music visualizer "
 }, {
   url: "https://www.youtube.com/watch?v=JucYYmeh_QY",
-  name: "LES TROIS ANIMAUX <br> An afrosurrealist 3D animated short film about displacement"
+  name: "LES TROIS ANIMAUX \n An afrosurrealist 3D animated short film about displacement"
 }]; //-------------------------------------------------------------------------------------------------------------------
 // Base
 //-------------------------------------------------------------------------------------------------------------------
