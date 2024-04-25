@@ -53683,7 +53683,7 @@ var lastPosition = {
   rz: null
 };
 var detailsImage = [{
-  url: "https://www.instagram.com/p/CmZmzMbIHma/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+  url: "https://youtu.be/pg-kp64eT7A",
   name: "SHE IS \n A 3D animation bridging the past, the present and the future of African creativity"
 }, {
   url: "https://vimeo.com/817378741",
@@ -53698,13 +53698,13 @@ var detailsImage = [{
   url: "https://www.youtube.com/watch?v=3vZsVKD8BQg",
   name: "SACRIFICE \n An african futuristic 3D animated short film"
 }, {
-  url: "https://www.youtube.com/watch?v=7Zp66FhjlPU",
+  url: "https://www.youtube.com/watch?v=OzltHnRfMQs",
   name: "STRAIGHT OUT OF THE COSMOS \n A collection of 8 360deg 3D animation"
 }, {
   url: "https://www.youtube.com/watch?v=68vPtAE3cZE",
   name: "SACRIFICE \n An african futuristic 3D animated short film"
 }, {
-  url: "https://vimeo.com/817386000",
+  url: "https://youtu.be/fo0q2uBlIFo",
   name: "ALIEN \n A 3D animated music visualizer"
 }, {
   url: "https://www.youtube.com/watch?v=ifcGVq5o0Jo",
