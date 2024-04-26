@@ -53686,13 +53686,13 @@ var detailsImage = [{
   url: "https://youtu.be/pg-kp64eT7A",
   name: "SHE IS \n A 3D animation bridging the past, the present and the future of African creativity"
 }, {
-  url: "https://youtube.com/shorts/mI-voWjsC1c",
+  url: "https://youtube.com/shorts/mI-voWjsC1c?feature=share",
   name: "YOUTH \n A 3D animation for a fashion brand called Youth"
 }, {
   url: "https://youtu.be/AZ8ih9tsJyQ",
   name: "UNIVERSAL SOLDIER \n A 3D animation about brotherhood"
 }, {
-  url: "https://youtube.com/shorts/96hZVu0x58A",
+  url: "https://youtube.com/shorts/96hZVu0x58A?feature=share",
   name: "VENTRE DU PYTHON \n A 3D animated music visualizer"
 }, {
   url: "https://youtube.com/shorts/aw_t4hOuAv0?feature=share",
